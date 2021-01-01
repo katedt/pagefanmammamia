@@ -1,0 +1,116 @@
+body{
+    background-image: url("sscene.jpg");
+	background-position: center;
+	background-size; cover;
+	font-family: "Open Sans", sans-serif;
+	padding : 5px 20px;
+	margin : 0;
+	color : #444;
+}
+    
+	ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: none;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: cyan;
+    text-align: center;
+    padding: 14px 16px;
+    font-family: "Bodoni MT";
+	font-size: 30px;
+}
+li a:hover {
+    background-color: #111;
+}
+
+	h2{ color: cyan;
+	    font-family: "Bodoni MT", serif;
+		font-size : 35px;
+		padding : 15px 85px;
+	}
+	h3{ color: cyan;
+	    font-family: "Bodoni MT", serif;
+		font-size : 35px;
+		padding : 15px 85px;
+	    margin-bottom: 10px;
+	}
+	p{ color: cyan;
+	    font-family: "Bodoni MT", serif;
+		font-size : 32px;
+		padding : 15px 40px;
+		line-height: 26px; 
+	    margin-top: 10px;
+	}
+	h4{ color: cyan;
+	    font-family: "Bodoni MT", serif;
+		font-size : 35px;
+		padding : 15px 380px;
+	}
+	h5{ color: cyan;
+	    font-family: "Bodoni MT", serif;
+		font-size : 35px;
+		padding : 15px 380px;
+		margin-bottom: 10px;
+	}
+	p{ color: cyan;
+	    font-family: "Bodoni MT", serif;
+		font-size : 32px;
+		padding : 15px 40px;
+		line-height: 26px;
+		margin-top: 10px;
+	}
+	h5{ color: cyan;
+	    font-family: "Bodoni MT", serif;
+		font-size : 35px;
+		padding : 15px 380px;
+		margin-bottom: 10px;
+	}	
+    P{ color: cyan;
+ 	   font-family: "Bodoni MT", serif;
+	   font-size : 32px;
+	   padding : 15px 40px;
+	   line-height: 26px;
+	   margin-top: 10px;	
+	}
+	h6{ color: cyan;
+	    font-family: "Bodoni MT", serif;
+		font-size : 35px;
+		padding : 15px 380px;
+		margin-bottom: 10px;	
+    }
+	
+	ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: none;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: cyan;
+    text-align: center;
+    padding: 14px 16px;
+    font-family: "Bodoni MT";
+	font-size: 30px;
+}
+    h6{ color: cyan;
+	    font-family: "Bodoni MT", serif;
+		font-size : 35px;
+		padding : 15px 380px;
+		margin-bottom: 10px;	
+    }		
